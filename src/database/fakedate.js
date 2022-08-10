@@ -26,6 +26,6 @@ module.exports = [
         ],
         instructions: "venha como se sentir a vontade e traga muito amor e paciencia para dar.",
         opening_hours: "Horário de visitas das 18h até 8h",
-        open_on_weekends: "0"
+        open_on_weekends: "1"
     }
 ]
